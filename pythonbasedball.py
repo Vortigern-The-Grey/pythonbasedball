@@ -1,7 +1,8 @@
 
 """
-Python Baseball Simulator
-by Jason C.
+Python Basedball Simulator
+Originally Coded by Jason C.
+Opinionated by Vortigern
 
 """
 
