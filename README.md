@@ -8,9 +8,9 @@ interactive console-based baseball simulation
 4. `python3 pythonbaseball.py`
 
 ### OR
-1. go to pythonbasedball.py
+1. go to [/src/pythonbasedball.py](/src/pythonbasedball.py)
 2. Click save as raw
-3. Run in Python 3
+3. Run in Python 3 :-)
 
 ### Game setup
 1. Choose home and away team names.
