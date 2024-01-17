@@ -58,7 +58,7 @@ def main():
     time.sleep(2)
     print("Let's play ball!!")
     print(". . . . . . . . . . . . . . . . . . .")
-    time.sleep(2.5)
+    time.sleep(2)
 
     # MAIN LOOP - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
     for i in range(num_innings):
