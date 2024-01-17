@@ -17,8 +17,12 @@ interactive console-based baseball simulation
 2. Name the Stadium of the home team.
 2. Choose how many innings to simulate.
 4. Decide whether to have aggressive scoring or not.
+![](/images/setup1.png)
+
 
 ### Gameplay
  - Generates fully randomized outcomes for each batter (one pitch per batter)
- - End of game statistics featuring boxscore and team totals
  - Slightly better grammar and output mentioning stadium name and aggressive scoring (this is where the opinionated comes in lol)
+![](/images/gameplay.png)
+ - End of game statistics featuring boxscore and team totals
+ ![](/images/endgame.png)
