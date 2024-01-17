@@ -22,7 +22,9 @@ interactive console-based baseball simulation
 
 ### Gameplay
  - Generates fully randomized outcomes for each batter (one pitch per batter)
- - Slightly better grammar and output mentioning stadium name and aggressive scoring (this is where the opinionated comes in lol)
+ - Slightly better grammar than original, eg. extra full stops. 
+ - Output mentions stadium name and aggressive scoring.
 ![](/images/gameplay.png)
+
  - End of game statistics featuring boxscore and team totals
  ![](/images/endgame.png)
